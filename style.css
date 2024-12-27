@@ -28,6 +28,7 @@ div {
     height: 12%;
     bottom: 0;
     background-size: 100%;
+    background-repeat: no-repeat;
     left: 45%;
     top: 50%;
 }
